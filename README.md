@@ -76,9 +76,11 @@ The repository contains screenshots captured during hands-on practice in the SAP
 - SAP MM transaction codes relevant to the scenarios documented in this repository
 
 ## Disclaimer
+
+Sandy Foods Pvt. Ltd. is a fictional company created for learning and portfolio demonstration. All activities documented here were performed in a training environment.
+
 ## Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/soundarya-mr-962b61374
 - **GitHub:** [Sandy Foods SAP S/4HANA MM Project](./)
 
-Sandy Foods Pvt. Ltd. is a fictional company created for learning and portfolio demonstration. All activities documented here were performed in a training environment.
